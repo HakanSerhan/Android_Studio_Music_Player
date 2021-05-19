@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Muzify</string>
+    <string name="playing">Çalıyor</string>
+    <string name="songName">Şarkı adı</string>
+    <string name="songArtist">Şarkıcı adı</string>
+    <string name="textDuration">1:28</string>
+    <string name="textDurationmax">4:28</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
