@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">Muzify</string>
-    <string name="playing">Çalıyor</string>
+    <string name="playing">Oynatılıyor</string>
     <string name="songName">Şarkı adı</string>
     <string name="songArtist">Şarkıcı adı</string>
     <string name="textDuration">1:28</string>
+    <string name="textDelete">Sil</string>
+    <string name="textAlbum">Albüm</string>
     <string name="textDurationmax">4:28</string>
+    <string name="textSearch">Ara</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

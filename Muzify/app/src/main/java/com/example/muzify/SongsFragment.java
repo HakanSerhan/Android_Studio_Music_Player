@@ -20,7 +20,7 @@ import static com.example.muzify.MainActivity.musicFiles;
 public class SongsFragment extends Fragment {
 
     RecyclerView recyclerView;
-    MusicAdapter musicAdapter;
+    static MusicAdapter musicAdapter;
     public SongsFragment() {
         // Required empty public constructor
     }
